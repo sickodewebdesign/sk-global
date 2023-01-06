@@ -1,0 +1,51 @@
+{
+  "name": "sk-global",
+  "displayName": "SK Global",
+  "description": "Sic Kode Web Design Global Extension Pack",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3B82F6",
+    "theme": "dark"
+  },
+  "author": {
+    "name": "Sergiu Waxmann",
+    "email": "sergiu@sickode.com"
+  },
+  "publisher": "sickodewebdesign",
+  "repository": "https://github.com/sickodewebdesign/sk-global",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "SK",
+    "Sic Kode",
+    "Sic Kode Web Design",
+    "SK Global",
+    "Sic Kode Web Design Global Extension Pack"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "vivaxy.vscode-conventional-commits",
+    "usernamehw.errorlens",
+    "ms-vsliveshare.vsliveshare",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  }
+}
