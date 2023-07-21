@@ -2,6 +2,7 @@
 
 ## Extensions
 
+- advanced-new-file
 - Better Comments
 - Code Spell Checker
 - Conventional Commits

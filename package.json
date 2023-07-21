@@ -13,7 +13,7 @@
   },
   "publisher": "sickodewebdesign",
   "repository": "https://github.com/sickodewebdesign/sk-global",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -29,6 +29,7 @@
     "Sic Kode Web Design Global Extension Pack"
   ],
   "extensionPack": [
+    "patbenatar.advanced-new-file",
     "aaron-bond.better-comments",
     "streetsidesoftware.code-spell-checker",
     "vivaxy.vscode-conventional-commits",
