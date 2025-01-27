@@ -1,4 +1,4 @@
-# **Sic Kode Web Design** Global Extension Pack
+# **Sic Kode** Global Extension Pack
 
 ## Extensions
 

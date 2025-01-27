@@ -1,7 +1,7 @@
 {
   "name": "sk-global",
   "displayName": "SK Global",
-  "description": "Sic Kode Web Design Global Extension Pack",
+  "description": "Sic Kode Global Extension Pack",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#3B82F6",
@@ -11,9 +11,9 @@
     "name": "Sergiu Waxmann",
     "email": "sergiu@sickode.com"
   },
-  "publisher": "sickodewebdesign",
+  "publisher": "sickode",
   "repository": "https://github.com/sickodewebdesign/sk-global",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"
@@ -26,6 +26,10 @@
     "Sic Kode",
     "Sic Kode Web Design",
     "SK Global",
+    "Sic Kode Global",
+    "Sic Kode Web Design Global",
+    "SK Global Extension Pack",
+    "Sic Kode Global Extension Pack",
     "Sic Kode Web Design Global Extension Pack"
   ],
   "extensionPack": [
